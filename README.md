@@ -3,11 +3,11 @@
 
 # NECESSARIO PARA USO:
 
-* MONGO DB INSTALADO
-* NODE.JS FUNCIONANDO
-* NODEMON INSTALADO(OPICIONAL)
+* Mogo db instalado
+* node.js Funcionando
+* nodemon instalado(OPICIONAL)
 
 # PARA RODAR:
-1. SEGUIR PARA O DIRETORIA DO PROJETO
-2. NO TERMINAL RODAR O CODIGO NPM RUN DEV(SE TIVER NODEMON INSTALADO)
-3. SE NÃO TIVER NODEMON INSTALADO, PARA RODAR USE O CODIGO "NODE SERVER.JS"
+1. Seguir para o diretorio
+2. No terminal rodar o codigo "npm run dev"(SE TIVER NODEMON INSTALADO)
+3. Se não, rodar o codigo "node server.js"
